@@ -1,0 +1,6 @@
+{
+  "name": "Pelagia ReefOS — Marine Ecological Information System",
+  "description": "Enterprise digital management system for marine conservation agencies to track coral reef surveys, biodiversity records, habitat restoration activities, and oceanographic monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
